@@ -1,6 +1,5 @@
 # lshtm-rd-resources
-<p>Running list of useful info for incoming LSHTM Public Health & Policy RD candidates</p>
-<br>
+<p>Running list of useful info for incoming LSHTM Public Health & Policy RD candidates. last updated 6 Oct 2020</p>
 <br>
 <p> <b> NEWS & COMMS </b> <br>
 1. <b>Departmental intros</b> – Each department organizes their own induction, but worth getting in touch with Joanna Bending to check on contacts and listservs if you have not been contacted yet.<br> 
