@@ -1,18 +1,16 @@
 # lshtm-rd-resources
-Running list of useful info for incoming LSHTM Public Health &amp; Policy RD candidates
+Running list of useful info for incoming LSHTM Public Health & Policy RD candidates<p>
 
-<b> NEWS & COMMS </b>
-1.	Departmental intros – Each department organizes their own induction, but worth getting in touch with Joanna Bending to check on contacts and listservs if you have not been contacted yet. 
+<b> NEWS & COMMS </b> <br>
+1. Departmental intros – Each department organizes their own induction, but worth getting in touch with Joanna Bending to check on contacts and listservs if you have not been contacted yet.<br> 
 For PHES, the department head is the very nice Mark Petticrew and you can probably reach out to him, but not sure who is coordinating comms at the moment. Steve Cummins/Kathryn Oliver are the DRDCs. For HSRP, Debby Stanley can get you on the listserv and Alec Miners/Mary-Alison Durand are the DRDCs. We usually have an occasional newsletter from HSRP as well as PHP, and a departmental seminar every month or so. PIRU/PSSRU organise further meetings if your research falls under those programmes. For GHD, you should contact Jack Butterworth to be on departmental comms and Lorraine Bacchus/Shelley Lees are the DRDCs. Everyone should be meeting with DRDCs in the next ~6 months or so.
- 
+<p>
 2.	Listservs – It is worth keeping an eye on all-PHP and RD comms like this year’s seminar series that Kara just announced.
-Probably you should also sign up for email announcements from various centres and groups here (use “search for lists”): https://lists.lshtm.ac.uk/sympa/home. 
-
-A list of the 14 Centres: https://www.lshtm.ac.uk/research/centres-projects-groups/centres. Please note that particular page is non-exhaustive, as further topic research groups exist (e.g. the Cancer Survival Group, NTD Network) and there are other institutional/methods groups and big grant-funded programmes that may be of interest at LSHTM, eg I participate in Decolonising Global Health and the R Users Group. Do ask your supervisor and colleagues or keep an eye out in Chariot and events. Centres are self-governing and some have Slack/Teams/etc in addition to the listserv.
- 
+Probably you should also sign up for email announcements from various centres and groups here (use “search for lists”): https://lists.lshtm.ac.uk/sympa/home. <br>
+A list of the 14 Centres: https://www.lshtm.ac.uk/research/centres-projects-groups/centres. Please note that particular page is non-exhaustive, as further topic research groups exist (e.g. the Cancer Survival Group, NTD Network) and there are other institutional/methods groups and big grant-funded programmes that may be of interest at LSHTM, eg I participate in Decolonising Global Health and the R Users Group. Do ask your supervisor and colleagues or keep an eye out in Chariot and events. Centres are self-governing and some have Slack/Teams/etc in addition to the listserv. <br> 
 This can quickly flood your inbox, but is useful for hearing about seminars and collaborations relevant to your work. 
- 
- 
+<p> 
+<br>
 <b> SKILLS & TRAINING </b>
 3.	Timetable for taught modules is here (https://www.lshtm.ac.uk/study/courses/short-courses/modules-london#modulessee, see the pdf/xls link as well). Terms map with the academic calendar here (https://www.lshtm.ac.uk/aboutus/term-and-holiday-dates).
  
