@@ -3,7 +3,7 @@
 <br>
 <p> <b> NEWS & COMMS </b> <br>
 1. <b>Departmental intros</b> – Each department organizes their own induction, but worth getting in touch with Joanna Bending to check on contacts and listservs if you have not been contacted yet.<br> 
-For PHES, the department head is the very nice Mark Petticrew and you can probably reach out to him, but not sure who is coordinating comms at the moment. Steve Cummins/Kathryn Oliver are the DRDCs. For HSRP, Debby Stanley can get you on the listserv and Alec Miners/Mary-Alison Durand are the DRDCs. We usually have an occasional newsletter from HSRP as well as PHP, and a departmental seminar every month or so. PIRU/PSSRU organise further meetings if your research falls under those programmes. For GHD, you should contact Jack Butterworth to be on departmental comms and Lorraine Bacchus/Shelley Lees are the DRDCs. Everyone should be meeting with DRDCs in the next ~6 months or so.
+For PHES, the department head is Mark Petticrew. You can probably reach out to him, but there may be a departmental comms coordinator too. Steve Cummins/Kathryn Oliver are the DRDCs. For HSRP, Debby Stanley can get you on the listserv and Alec Miners/Mary-Alison Durand are the DRDCs. We usually have an occasional newsletter from HSRP as well as PHP, and a departmental seminar every month or so. PIRU/PSSRU organise further meetings if your research falls under those programmes. For GHD, you should contact Jack Butterworth to be on departmental comms and Lorraine Bacchus/Shelley Lees are the DRDCs. Everyone should be meeting with DRDCs in the next ~6 months or so.
 <br>
 <br>
 2.	<b>Listservs</b> – It is worth keeping an eye on all-PHP and RD comms like this year’s seminar series that Kara just announced.
